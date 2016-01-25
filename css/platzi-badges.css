@@ -6,10 +6,7 @@
 .platzi-badges-list__item {
     display: inline-block;
     list-style: none;
-    margin-bottom: 1.618em;
-    margin-left: auto;
-    margin-right: auto;
-    margin: 0 .809em .809em .809em;
+    margin: 0 .7em 1.618em .7em;
     text-align: center;
     vertical-align: top;
     width: 120px;
