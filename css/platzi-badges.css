@@ -1,0 +1,79 @@
+.platzi-badges-list {
+    margin: 1.618em 0;
+    padding: 0;
+}
+
+.platzi-badges-list__item {
+    display: inline-block;
+    list-style: none;
+    margin-bottom: 1.618em;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 .809em .809em .809em;
+    text-align: center;
+    vertical-align: top;
+    width: 120px;
+}
+
+.platzi-badges-list__item img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+.platzi-badges-list__item span {
+    display: inline-block;
+    margin-top: .809em;
+    max-width: 100px;
+}
+
+.platzi-user {
+    display: block;
+    margin-top: 1.618em;
+    width: 100%;
+}
+
+.platzi-user__avatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 150px;
+}
+
+.platzi-user__avatar img {
+    border-radius: 100%;
+    max-width: 100%;
+}
+
+.platzi-user__avatar span {
+    bottom: 5px;
+    position: absolute;
+    right: 5px;
+}
+
+.platzi-user__meta {
+    margin: 1.618em;
+    text-align: center;
+}
+
+.platzi-user__country {
+    font-weight: bold;
+}
+
+.platzi-user__meta a {
+    text-decoration: none;
+}
+
+.platzi-user__meta span {
+    display: inline-block;
+}
+
+.platzi-user__meta span + span {
+    margin-left: 1em;
+}
+
+.platzi-block {
+    display: block !important;
+}
